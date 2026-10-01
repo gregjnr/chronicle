@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle - Modern Glassmorphism Blog Platform",
+  "description": "A full-stack blog platform featuring JWT authentication, post CRUD, comments, search, and a stunning glassmorphism design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
